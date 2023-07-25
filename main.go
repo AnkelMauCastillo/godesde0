@@ -1,9 +1,10 @@
 package main
 
 import (
-	"fmt"
+	"github.com/godesde0/variables"
 )
 
 func main() {
-	fmt.Println("Hola Mundo en Go")
+	variables.MuestroEnteros()
+	
 }
